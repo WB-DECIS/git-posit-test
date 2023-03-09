@@ -1,0 +1,19 @@
+---
+title: "git-posit-test"
+output: html_document
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Intro paragraph
+
+Example of document that will be automatically published to Connect as new commits
+are being pushed to the Github repo
+
+```{r cars}
+summary(cars)
+```
+
