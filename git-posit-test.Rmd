@@ -17,3 +17,6 @@ are being pushed to the Github repo
 summary(cars)
 ```
 
+## New content
+This content should appear automatically on the Connect published after this change 
+is pushed to Github. This new content appeared at `Sys.time()`
