@@ -19,4 +19,4 @@ summary(cars)
 
 ## New content
 This content should appear automatically on the Connect published after this change 
-is pushed to Github. This new content appeared at `Sys.time()`
+is pushed to Github. This new content appeared at `r Sys.time()`
