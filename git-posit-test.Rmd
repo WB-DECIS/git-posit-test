@@ -28,4 +28,5 @@ Adding another paragraph as my previous change was not picked-up.
 updates are driven by the `manifest.json` file, so `rsconnect::WriteManifest` has
 to be run before pushing any commit to the Github repo.
 
-## Yes another section because changes are not being picked up...
+## Yet another section because changes are not being picked up...
+I update the config file to check for changes every 5 minutes. Let's see if it works.
