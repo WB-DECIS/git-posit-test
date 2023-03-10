@@ -23,3 +23,7 @@ is pushed to Github. This new content appeared at `r Sys.time()`
 
 ## Another paragraph
 Adding another paragraph as my previous change was not picked-up.
+
+## Testing automatic updates
+updates are driven by the `manifest.json` file, so `rsconnect::WriteManifest` has
+to be run before pushing any commit to the Github repo.
