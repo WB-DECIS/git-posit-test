@@ -30,3 +30,10 @@ to be run before pushing any commit to the Github repo.
 
 ## Yet another section because changes are not being picked up...
 I update the config file to check for changes every 5 minutes. Let's see if it works.
+additional minor change. My understanding of what is happening is the following:
+- Some kind of automatic check update is happening
+- But it is not working...
+- Now, if I try to refresh, no changes are being detecting (even though the Github 
+version is different)
+- If I push a change now before the next automatic check runs, the report will successfully refresh
+Testing...
